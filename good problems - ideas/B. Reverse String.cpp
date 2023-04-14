@@ -1,3 +1,8 @@
+/*
+link : https://codeforces.com/contest/1553/problem/B
+rate : 1300
+------------------------------------- it is a good idea ---------------------------------------------
+*/
 #include <iostream>
 #include <cmath>
 #include <string>
